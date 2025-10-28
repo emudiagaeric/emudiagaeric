@@ -1,4 +1,5 @@
-Hi, I'm Emudiaga Rukevwe Ericson
+Hi, I'm Emudiaga Rukevwe Ericson.
+
 I’m a **Data Analyst** passionate about uncovering insights and driving data-informed decisions. My learning journey bridges SQL, Python, and Tableau — integrating these tools to clean, analyze, and visualize data efficiently.
 
 **_I specialize in_**:
